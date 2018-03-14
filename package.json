@@ -1,0 +1,14 @@
+{
+  "name": "githubviewer",
+  "version": "1.0.0",
+  "description": "A tool created from a PluralSight course. This searches for GitHub users, their repositories and their repositories contributors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulises Taveras",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
